@@ -1,0 +1,18 @@
+.top-toolbar {
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .toolbar-label {
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .toolbar-label:hover {
+    background-color: #2980b9;
+  }
